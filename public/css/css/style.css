@@ -1,0 +1,19 @@
+body{
+    background-color: #343a40 ;
+}
+#formulario{
+    margin-top: 5vh;
+}
+.container{
+    margin-top: 50px;
+}
+.container {
+    color:white;
+}
+.card {
+    color:#343a40;
+    margin-top: 15px;
+}
+.jumbotron{
+    color:#343a40;
+}
